@@ -1,2 +1,3 @@
 # Análise de Estudantes
-Análise de estudantes quanto seu desempenho escolar com relação ao nível de escolaridade de seus pais, preparo para avaliações(tenha feito algum tipo de curso antes de realizar as provas), e sua alimentação.
+Essa análise tem como base, dados retirados do site kaggle.com. As análises feitas não são afirmações, apenas conclusões com base nos dados informados e analisados.
+
